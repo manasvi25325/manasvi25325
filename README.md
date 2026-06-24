@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Manasvi Kadam 👋
 
-<!--
-**manasvi25325/manasvi25325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Sc. IT Student
 
-Here are some ideas to get you started:
+📊 Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Python Developer
+
+🌱 Currently Learning:
+- Data Science
+- Machine Learning
+- SQL
+- Flask
+
+## Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Machine Learning
+- Flask
+- HTML
+- CSS
+- Git & GitHub
+
+## Projects
+
+### AI Resume Analyzer
+Built an AI-powered Resume Analyzer using Python and Flask that calculates ATS scores and extracts skills from resumes.
+
+### Personal Expense Tracker
+Android application for tracking expenses, managing budgets, and generating reports using Java and SQLite.
+
+### Earthquake Energy Prediction
+Machine Learning project using Linear Regression for earthquake energy estimation.
+
+## Connect With Me
+
+- LinkedIn: (Add your LinkedIn URL)
+- GitHub: https://github.com/manasvi25325
+
+⭐ Always learning and building new projects!
