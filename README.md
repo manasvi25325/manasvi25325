@@ -37,7 +37,7 @@ Machine Learning project using Linear Regression for earthquake energy estimatio
 
 ## Connect With Me
 
-- LinkedIn: (Add your LinkedIn URL)
+- LinkedIn: (www.linkedin.com/in/manasvi-kadam-228597282)
 - GitHub: https://github.com/manasvi25325
 
 ⭐ Always learning and building new projects!
