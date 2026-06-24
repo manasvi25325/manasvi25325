@@ -1,6 +1,6 @@
 # Hi, I'm Manasvi Kadam 👋
 
-🎓 Final Year B.Sc. IT Student
+🎓 B.Sc. IT Graduate
 
 📊 Data Science Enthusiast
 
