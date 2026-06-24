@@ -22,6 +22,9 @@
 - Flask
 - HTML
 - CSS
+- Powerbi
+- Tableau
+- Fast Api
 - Git & GitHub
 
 ## Projects
