@@ -35,8 +35,8 @@ Built an AI-powered Resume Analyzer using Python and Flask that calculates ATS s
 ### Personal Expense Tracker
 Android application for tracking expenses, managing budgets, and generating reports using Java and SQLite.
 
-### Earthquake Energy Prediction
-Machine Learning project using Linear Regression for earthquake energy estimation.
+### UPI Fraud Detection
+The UPI Fraud Detection System is a Machine Learning web application that detects whether a UPI transaction is legitimate or fraudulent based on transaction details. The project helps identify suspicious transactions using a trained classification model and provides instant predictions through a user-friendly web interface.
 
 ## Connect With Me
 
